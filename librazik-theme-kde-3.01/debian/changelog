@@ -1,3 +1,10 @@
+librazik-theme-kde (3.01) buster; urgency=medium
+
+  * Suppression de 3 grands fonds d'écran inutiles et volumineux
+  * Suppression du thème SDDM non différent de sddm-breeze-theme
+
+ -- Mathieu Picot <picotmathieu@gmail.com>  Tue Sep 29 14:44:05 CEST 2020
+
 librazik-theme-kde (3.00) buster; urgency=medium
 
   * Reconstruction avec pbuilder pour LibraZiK-3.
