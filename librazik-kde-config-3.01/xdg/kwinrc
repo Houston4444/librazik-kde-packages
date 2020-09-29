@@ -1,0 +1,15 @@
+[Desktops]
+Number=3
+Rows=1
+
+[Effect-DesktopGrid]
+BorderActivate=3
+LayoutMode=1
+
+[Windows]
+ElectricBorders=1
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=SF
+ButtonsOnRight=HIX
+theme[$d]

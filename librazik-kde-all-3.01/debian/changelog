@@ -1,0 +1,15 @@
+librazik-kde-all (3.01) buster; urgency=medium
+
+  * Reconstruction avec pbuilder pour LibraZiK-3.
+    - ajout de paquets.
+  * debian/control :
+    - dépendances d'exécution : ajout de "plasma-browser-integration" et
+      "plasma-nm".
+
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  Tue, 29 Sep 2020 00:16:33 +0200
+
+librazik-kde-all (3.00) buster; urgency=medium
+
+  * Construction initiale avec pbuilder pour LibraZiK-3.
+
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  Fri, 18 Oct 2019 23:42:04 +0200

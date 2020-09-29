@@ -1,0 +1,26 @@
+Source: librazik-kde-all
+Section: admin
+Priority: optional
+Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
+Uploaders: Olivier Humbert <trebmuh@tuxfamily.org>
+Standards-Version: 4.3.0
+Build-Depends: debhelper (>= 12)
+Homepage: https://librazik.tuxfamily.org/
+
+Package: librazik-kde-all
+Architecture: all
+Depends:
+ librazik-menu,
+ librazik-kde-config,
+ plasma-browser-integration,
+ plasma-nm,
+ task-kde-desktop,
+ ${misc:Depends},
+Description: LibraZiK 3 KDE Meta-Package
+ This package is a meta-package for the LibraZiK 3 KDE desktop environment
+ configuration which installs all the LibraZiK 3 KDE related packages and
+ configurations.
+ .
+ Documentation page : https://librazik.tuxfamily.org/doc3/paquets
+ .
+ LibraZiK audio studio package 2020 ©
